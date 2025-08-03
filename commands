@@ -1,1 +1,3 @@
-npx create-react-app model-comp-mfe --template typescript
+npm create vite@latest model-comp-mfe
+
+npm install tailwindcss @tailwindcss/vite
